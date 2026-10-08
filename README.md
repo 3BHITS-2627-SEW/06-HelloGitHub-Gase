@@ -4,7 +4,7 @@
 
 https://github.com/im-luka/markdown-cheatsheet
 
-Erster Commit vom rechner
+## Erster Commit vom rechner
 
-Zweiter commit
+## Zweiter commit vom Server
 
